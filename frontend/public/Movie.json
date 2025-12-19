@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "rating": 8.8,
+    "description": "A thief who enters people's dreams to steal secrets gets a chance to erase his criminal history.",
+    "poster": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "rating": 9,
+    "description": "Batman faces his toughest challenge when the Joker unleashes chaos on Gotham City.",
+    "poster": "https://image.tmdb.org/t/p/w500/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "rating": 8.6,
+    "description": "A team travels through a wormhole to ensure humanity's survival.",
+    "poster": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 4,
+    "title": "Parasite",
+    "year": 2019,
+    "genre": [
+      "Thriller",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "description": "A poor family infiltrates a wealthy household with unexpected consequences.",
+    "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 5,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "rating": 8.7,
+    "description": "A hacker discovers that reality is a simulated program.",
+    "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 6,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.9,
+    "description": "The lives of criminals intertwine in a series of violent and funny stories.",
+    "poster": "https://posterspy.com/wp-content/uploads/2023/08/PULP_FICTION.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 7,
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": [
+      "Drama"
+    ],
+    "rating": 8.8,
+    "description": "A disillusioned man starts an underground fight club with a mysterious stranger.",
+    "poster": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 8,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": [
+      "Drama"
+    ],
+    "rating": 9.3,
+    "description": "A banker is sentenced to life in prison and forms a friendship that helps him survive.",
+    "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 9,
+    "title": "Avatar",
+    "year": 2009,
+    "genre": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "rating": 7.9,
+    "description": "A paralyzed Marine becomes part of a mission on the alien world Pandora.",
+    "poster": "https://tse3.mm.bing.net/th/id/OIP.W999i81qSfTO47kHvcIbSQHaKC?cb=ucfimg2&ucfimg=1&w=474&h=379&c=7&p=0",
+    "popular": false,
+    "trending": false
+  },
+  {
+    "id": 10,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "rating": 8.4,
+    "description": "The Avengers assemble once more to undo the damage caused by Thanos.",
+    "poster": "https://tse1.mm.bing.net/th/id/OIP.Iz6fhsuI-mX-ixaR7HajxgHaKb?cb=ucfimg2&ucfimg=1&w=474&h=379&c=7&p=0",
+    "popular": false,
+    "trending": false
+  },
+  {
+    "id": 11,
+    "title": "Titanic",
+    "year": 1997,
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 7.8,
+    "description": "A love story unfolds aboard the doomed Titanic.",
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "popular": false,
+    "trending": false
+  },
+  {
+    "id": 12,
+    "title": "Joker",
+    "year": 2019,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "rating": 8.5,
+    "description": "A failed comedian descends into madness and becomes an infamous criminal.",
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 13,
+    "title": "Deadpool",
+    "year": 2016,
+    "genre": [
+      "Action",
+      "Comedy"
+    ],
+    "rating": 8,
+    "description": "A mercenary undergoes a rogue experiment to gain healing powers.",
+    "poster": "https://image.tmdb.org/t/p/w500/yGSxMiF0cYuAiyuve5DA6bnWEOI.jpg",
+    "popular": false,
+    "trending": false
+  },
+  {
+    "id": 14,
+    "title": "Inside Out",
+    "year": 2015,
+    "genre": [
+      "Animation",
+      "Family"
+    ],
+    "rating": 8.2,
+    "description": "A young girl's emotions struggle to guide her during a life-changing event.",
+    "poster": "https://image.tmdb.org/t/p/w500/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg",
+    "popular": false,
+    "trending": false
+  },
+  {
+    "id": 15,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "genre": [
+      "Action",
+      "Fantasy"
+    ],
+    "rating": 8.3,
+    "description": "Spider-Man faces multiverse villains after a spell goes wrong.",
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "popular": false,
+    "trending": true
+  },
+  {
+    "id": 16,
+    "title": "Frozen",
+    "year": 2013,
+    "genre": [
+      "Animation",
+      "Family"
+    ],
+    "rating": 7.5,
+    "description": "Two sisters confront powerful magic and unforgettable adventures.",
+    "poster": "https://image.tmdb.org/t/p/w500/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+    "popular": false,
+    "trending": false
+  },
+  {
+    "id": 17,
+    "title": "John Wick",
+    "year": 2014,
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "rating": 7.4,
+    "description": "A retired hitman seeks revenge for the killing of his dog.",
+    "poster": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+    "popular": false,
+    "trending": false
+  },
+  {
+    "id": 18,
+    "title": "The Lion King",
+    "year": 1994,
+    "genre": [
+      "Animation",
+      "Adventure"
+    ],
+    "rating": 8.5,
+    "description": "A lion cub becomes the rightful king of the Pride Lands.",
+    "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 19,
+    "title": "Black Panther",
+    "year": 2018,
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "rating": 7.9,
+    "description": "T'Challa returns home to become king, facing political and physical threats.",
+    "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "popular": false,
+    "trending": false
+  },
+  {
+    "id": 20,
+    "title": "Dune",
+    "year": 2021,
+    "genre": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "rating": 8.1,
+    "description": "A noble family becomes entangled in a war for a desert planet.",
+    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "popular": false,
+    "trending": true
+  },
+  {
+    "id": 1766057025976,
+    "title": "New Movie",
+    "year": 2025,
+    "genre": [
+      "Action"
+    ],
+    "rating": 9,
+    "description": "A new movie description",
+    "poster": "https://example.com/poster.jpg",
+    "popular": true,
+    "trending": false
+  },
+  {
+    "id": 1766057084909,
+    "title": "New Movie",
+    "year": 2025,
+    "genre": [
+      "Action"
+    ],
+    "rating": 9,
+    "description": "A new movie description",
+    "poster": "https://example.com/poster.jpg",
+    "popular": true,
+    "trending": false
+  }
+]

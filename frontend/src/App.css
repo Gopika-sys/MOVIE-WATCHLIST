@@ -1,0 +1,86 @@
+/* 🌑 GLOBAL */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: radial-gradient(circle at top, #161616, #050505);
+  color: #eaeaea;
+}
+
+/* 🌑 HEADER / NAVBAR */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 30px;
+  background: #111;
+  border-bottom: 2px solid rgba(255, 120, 80, 0.4);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* LOGO */
+.header img {
+  width: 50px;
+  height: auto;
+  cursor: pointer;
+}
+
+/* NAV LINKS */
+.links {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.links a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: #ccc;
+  transition: 0.3s;
+}
+
+/* HOVER EFFECT */
+.links a:hover {
+  background: linear-gradient(90deg, #ff5f6d, #ffc371);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 12px rgba(255, 120, 80, 0.7);
+}
+
+/* ACTIVE LINK (GLITTER) */
+.links .active {
+  font-size: 18px;
+  font-weight: 700;
+  background: linear-gradient(
+    90deg,
+    #ff5f6d,
+    #ffc371,
+    #ff5f6d,
+    #ffc371
+  );
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: glitter 2.5s linear infinite;
+}
+
+/* GLITTER ANIMATION */
+@keyframes glitter {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .links {
+    gap: 20px;
+  }
+}
