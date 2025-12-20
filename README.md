@@ -187,6 +187,8 @@ http://localhost:3000
 ---
 
 ## 🧠 Backend Logic
+
+`````bash
 API Endpoints
 Method	Endpoint	Description
 GET	/api/movies	Fetch all movies
@@ -194,6 +196,8 @@ GET	/api/movies/:id	Fetch movie by ID
 POST	/api/movies	Add new movie
 PUT	/api/movies/:id	Update movie
 DELETE	/api/movies/:id	Delete movie
+
+`````
 
 ---
 
@@ -257,7 +261,7 @@ React | Node.js | MongoDB
 
 This project is for educational purposes only.
 
----
+
 
 
 
