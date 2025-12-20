@@ -236,7 +236,7 @@ Open a Pull Request
 
 ## 🙏 Acknowledgement
 
-This project was developed under the guidance of Siddharth Sharma, whose mentorship and continuous support were invaluable.
+This project was developed under the guidance of SIDDHARTH SHARMA, whose mentorship and continuous support were invaluable.
 
 ---
 
