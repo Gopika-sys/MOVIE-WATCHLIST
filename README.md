@@ -97,23 +97,19 @@ The application is built using **React** for the frontend, **Node.js & Express**
 
 
 MOVIE-WATCHLIST/
-│
 ├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── styles/
-│   │   └── App.js
-│
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── styles/
+│       └── App.js
 ├── backend/
 │   ├── models/
 │   ├── routes/
 │   ├── controllers/
 │   ├── config/
 │   └── index.js
-│
 └── README.md
-
 
 
 
