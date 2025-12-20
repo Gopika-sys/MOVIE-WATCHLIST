@@ -242,9 +242,11 @@ This project was developed under the guidance of Siddharth Sharma, whose mentors
 
 ## 👩‍💻 Author
 
-Gopika
-Full-Stack Developer
-React | Node.js | MongoDB
+- Gopika ❤️
+
+- Full-Stack Developer
+
+- React | Node.js | MongoDB
 
 ---
 
