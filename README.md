@@ -95,7 +95,7 @@ The application is built using **React** for the frontend, **Node.js & Express**
 
 ## 📁 Project Structure
 
-
+`````
 MOVIE-WATCHLIST
 ├── 📁 frontend
 │   └── 📁 src
@@ -110,6 +110,7 @@ MOVIE-WATCHLIST
 │   ├── 📁 config
 │   └── 📄 index.js
 └── 📄 README.md
+`````
 
 
 
@@ -131,6 +132,7 @@ MOVIE-WATCHLIST
 ```bash
 cd backend
 npm install
+`````
 
 
 ## ⚙️ Backend Setup
@@ -138,33 +140,49 @@ npm install
 ```bash
 cd backend
 npm install
+`````
 
 ---
 
 ###Create a .env file
 
+`````bash
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
+
+`````
 
 ---
 
 ###Run backend server
 
+`````bash
+
 npm run dev
+
+`````
 
 ---
 
 ###⚙️ Frontend Setup
 
+`````bash
+
 cd frontend
 npm install
 npm start
+
+`````
 
 ---
 
 ###🌐 Application Runs At
 
+`````bash
+
 http://localhost:3000
+
+`````
 
 ---
 
