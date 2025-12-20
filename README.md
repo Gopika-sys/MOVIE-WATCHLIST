@@ -127,22 +127,12 @@ MOVIE-WATCHLIST
 
 ## 🧠 Backend Setup
 
-1. Navigate to backend folder and install dependencies:
+ Navigate to backend folder and install dependencies:
 
 ```bash
 cd backend
 npm install
 `````
-
-
-## ⚙️ Backend Setup
-
-```bash
-cd backend
-npm install
-`````
-
----
 
 ## Create a .env file
 
@@ -188,15 +178,16 @@ http://localhost:3000
 
 ## 🧠 Backend Logic
 
-`````bash
 API Endpoints
-Method	Endpoint	Description
-GET	/api/movies	Fetch all movies
-GET	/api/movies/:id	Fetch movie by ID
-POST	/api/movies	Add new movie
-PUT	/api/movies/:id	Update movie
-DELETE	/api/movies/:id	Delete movie
 
+`````bash
+Method	       Endpoint	                Description
+GET	        /api/movies	                Fetch all movies
+GET	        /api/movies/:id	            Fetch movie by ID
+POST      	/api/movies     	          Add new movie
+PUT	        /api/movies/:id   	        Update movie
+DELETE	    /api/movies/:id	            Delete movie
+ 
 `````
 
 ---
