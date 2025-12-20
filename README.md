@@ -144,7 +144,7 @@ npm install
 
 ---
 
-###Create a .env file
+## Create a .env file
 
 `````bash
 PORT=5000
@@ -154,7 +154,7 @@ MONGO_URI=your_mongodb_connection_string
 
 ---
 
-###Run backend server
+## Run backend server
 
 `````bash
 
@@ -164,7 +164,7 @@ npm run dev
 
 ---
 
-###⚙️ Frontend Setup
+## ⚙️ Frontend Setup
 
 `````bash
 
@@ -176,7 +176,7 @@ npm start
 
 ---
 
-###🌐 Application Runs At
+## 🌐 Application Runs At
 
 `````bash
 
@@ -186,7 +186,7 @@ http://localhost:3000
 
 ---
 
-###🧠 Backend Logic
+## 🧠 Backend Logic
 API Endpoints
 Method	Endpoint	Description
 GET	/api/movies	Fetch all movies
@@ -197,7 +197,7 @@ DELETE	/api/movies/:id	Delete movie
 
 ---
 
-###📊 Learning Outcomes
+## 📊 Learning Outcomes
 
 Built a complete full-stack web application
 
@@ -211,7 +211,7 @@ Gained real-world backend development experience
 
 ---
 
-###🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 🔍 Movie search functionality
 
@@ -225,7 +225,7 @@ Gained real-world backend development experience
 
 ---
 
-###🤝 Contributing
+## 🤝 Contributing
 
 Fork the repository
 
@@ -239,13 +239,13 @@ Open a Pull Request
 
 ---
 
-###🙏 Acknowledgement
+## 🙏 Acknowledgement
 
 This project was developed under the guidance of Siddharth Sharma, whose mentorship and continuous support were invaluable.
 
 ---
 
-###👩‍💻 Author
+## 👩‍💻 Author
 
 Gopika
 Full-Stack Developer
@@ -253,7 +253,7 @@ React | Node.js | MongoDB
 
 ---
 
-###📄 License
+## 📄 License
 
 This project is for educational purposes only.
 
