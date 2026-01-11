@@ -9,16 +9,6 @@
   <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen" />
 </div>
 
-
-
-
-<p align="center">
-![License](https://img.shields.io/badge/license-MIT-blue)
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Node](https://img.shields.io/badge/Backend-Node.js-green)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
-</p>
-
 ---
 
 ## 📋 Table of Contents
