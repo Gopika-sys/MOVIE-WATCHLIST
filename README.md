@@ -1,3 +1,6 @@
+<h1 align="center">🎬 MovieVerse: Full-Stack Movie Platform</h1>
+
+
 # 🎬 MovieVerse: Full-Stack Movie Platform
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=900&lines=Full-Stack+Movie+Platform;React+%7C+Node.js+%7C+MongoDB;Explore+Movies+in+Real-Time)
