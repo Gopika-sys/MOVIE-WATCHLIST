@@ -2,6 +2,16 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=900&lines=Full-Stack+Movie+Platform;React+%7C+Node.js+%7C+MongoDB;Explore+Movies+in+Real-Time)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen" />
+</div>
+
+
+
+
 <p align="center">
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![React](https://img.shields.io/badge/Frontend-React-blue)
